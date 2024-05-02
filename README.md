@@ -18,7 +18,11 @@ Building and maintaining my daughter's future recruiting gymnastics website.
 - [MUI X](https://github.com/mui/mui-x)
 
 ## You Can Find Me...
-
+<p>
+<a href="https://dev.to/stylestrip"><img height="30" src="https://raw.githubusercontent.com/StylesTrip/StylesTrip/main/icons/devdotto.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ryan-turinsky-29b62063/"><img height="30" src="https://raw.githubusercontent.com/StylesTrip/StylesTrip/main/icons/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/StylesTrip"><img height="30" src="https://raw.githubusercontent.com/StylesTrip/StylesTrip/main/icons/twitter.svg"></a>&nbsp;&nbsp;
+</p>
 
 <!--
 **StylesTrip/StylesTrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
