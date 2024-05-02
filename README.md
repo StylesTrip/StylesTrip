@@ -17,6 +17,11 @@ Building and maintaining my daughter's future recruiting gymnastics website.
 - [MUI](https://github.com/mui/material-ui)
 - [MUI X](https://github.com/mui/mui-x)
 
+## Other Accomplishments
+
+### 2022 Stir Trek Presentation
+- [Building a Graph Based Infrastructure](https://www.youtube.com/watch?v=Vq4IfSfip90)
+
 ## You Can Find Me...
 [![DevTo](https://skillicons.dev/icons?i=devto)](https://dev.to/stylestrip)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryan-turinsky-29b62063/)
