@@ -4,7 +4,7 @@
 My Name is Ryan Turinsky. I am a father of two girls, husband, and software developer. I've spent most of my career as a backend Java developer who is now working his way through frontend development. I enjoy working on either frontend projects or full-stack projects when I can to. When I'm not doing any coding, you can find me shuttling my girls off to various practices, talking about comic books, or cheering on the Dallas Cowboys.
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,supabase,aws,html,css,materialui,tailwind,nextjs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,supabase,aws,html,css,materialui,tailwind,nextjs,js,react)](https://skillicons.dev)
 
 ## Projects I'm Working On
 ### [Sugar Dough Sweets](https://www.sugardoughsweetsllc.com/order)
@@ -18,11 +18,9 @@ Building and maintaining my daughter's future recruiting gymnastics website.
 - [MUI X](https://github.com/mui/mui-x)
 
 ## You Can Find Me...
-<p>
-<a href="https://dev.to/stylestrip"><img height="30" src="https://raw.githubusercontent.com/StylesTrip/StylesTrip/main/icons/devdotto.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ryan-turinsky-29b62063/"><img height="30" src="https://raw.githubusercontent.com/StylesTrip/StylesTrip/main/icons/linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/StylesTrip"><img height="30" src="https://raw.githubusercontent.com/StylesTrip/StylesTrip/main/icons/twitter.svg"></a>&nbsp;&nbsp;
-</p>
+[![DevTo](https://skillicons.dev/icons?i=devto)](https://dev.to/stylestrip)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryan-turinsky-29b62063/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/StylesTrip)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=stylestrip.stylestrip)
 <!--
