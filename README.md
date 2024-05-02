@@ -24,6 +24,7 @@ Building and maintaining my daughter's future recruiting gymnastics website.
 <a href="https://twitter.com/StylesTrip"><img height="30" src="https://raw.githubusercontent.com/StylesTrip/StylesTrip/main/icons/twitter.svg"></a>&nbsp;&nbsp;
 </p>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=stylestrip.stylestrip)
 <!--
 **StylesTrip/StylesTrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
