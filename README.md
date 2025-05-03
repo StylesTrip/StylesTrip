@@ -7,6 +7,9 @@ My Name is Ryan Turinsky. I am a father of two girls, husband, and software deve
 [![My Skills](https://skillicons.dev/icons?i=java,spring,supabase,aws,html,css,materialui,tailwind,nextjs,js,react)](https://skillicons.dev)
 
 ## Projects I'm Working On
+### [Zero7 Comics](https://www.zero7comics.com)
+Building and maintaining an online comic book website.
+
 ### [Sugar Dough Sweets](https://www.sugardoughsweetsllc.com/order)
 Building and maintaining my wife's home baking website.
 
